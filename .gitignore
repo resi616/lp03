@@ -1,5 +1,4 @@
 .venv/
 *.pt
-outputs/
 __pycache__/
 .ipynb_checkpoints/
